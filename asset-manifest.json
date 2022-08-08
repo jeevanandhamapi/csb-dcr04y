@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://jeevanandhamapi.github.io/csb-dcr04y/static/css/main.2e2386e8.chunk.css",
+    "main.js": "https://jeevanandhamapi.github.io/csb-dcr04y/static/js/main.a14ebfeb.chunk.js",
+    "main.js.map": "https://jeevanandhamapi.github.io/csb-dcr04y/static/js/main.a14ebfeb.chunk.js.map",
+    "runtime-main.js": "https://jeevanandhamapi.github.io/csb-dcr04y/static/js/runtime-main.3879b32b.js",
+    "runtime-main.js.map": "https://jeevanandhamapi.github.io/csb-dcr04y/static/js/runtime-main.3879b32b.js.map",
+    "static/js/2.05dc6c22.chunk.js": "https://jeevanandhamapi.github.io/csb-dcr04y/static/js/2.05dc6c22.chunk.js",
+    "static/js/2.05dc6c22.chunk.js.map": "https://jeevanandhamapi.github.io/csb-dcr04y/static/js/2.05dc6c22.chunk.js.map",
+    "static/js/3.0a5ea76c.chunk.js": "https://jeevanandhamapi.github.io/csb-dcr04y/static/js/3.0a5ea76c.chunk.js",
+    "static/js/3.0a5ea76c.chunk.js.map": "https://jeevanandhamapi.github.io/csb-dcr04y/static/js/3.0a5ea76c.chunk.js.map",
+    "index.html": "https://jeevanandhamapi.github.io/csb-dcr04y/index.html",
+    "static/css/main.2e2386e8.chunk.css.map": "https://jeevanandhamapi.github.io/csb-dcr04y/static/css/main.2e2386e8.chunk.css.map",
+    "static/js/2.05dc6c22.chunk.js.LICENSE.txt": "https://jeevanandhamapi.github.io/csb-dcr04y/static/js/2.05dc6c22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3879b32b.js",
+    "static/js/2.05dc6c22.chunk.js",
+    "static/css/main.2e2386e8.chunk.css",
+    "static/js/main.a14ebfeb.chunk.js"
+  ]
+}
